@@ -6,3 +6,6 @@ platform:
 - x64
 build:
   verbosity: minimal
+artifacts:
+- path: x86\Release\ColorPicker-x86.exe
+- path: x64\Release\ColorPicker-x64.exe
